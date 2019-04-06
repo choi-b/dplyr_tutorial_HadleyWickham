@@ -1,4 +1,4 @@
-## The repository contains my notes from the dplyr Tutorial by Hadley Wickham during the useR 2014 conference at UCLA.
+## Notes from the dplyr Tutorial by Hadley Wickham during the useR 2014 conference at UCLA.
 
 dplyr is an essential data manipulation package in R for data analysts/scientists, which allows you to easily sort, manage, and clean your data with speed and efficiency. 
 
