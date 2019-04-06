@@ -7,5 +7,4 @@ dplyr is an essential data manipulation package in R for data analysts/scientist
 
 #### dplyr workshop held at UCLA during the useR 2014 conference.
 #### Link to Tutorial Videos on YouTube: 
-part 1: https://www.youtube.com/watch?v=8SGif63VW6E
-part 2: https://www.youtube.com/watch?v=Ue08LVuk790
+##### [part1](https://www.youtube.com/watch?v=8SGif63VW6E) & [part2](https://www.youtube.com/watch?v=Ue08LVuk790)
